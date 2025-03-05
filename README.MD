@@ -74,7 +74,7 @@ Sending Multiple Prompts and converting them into Pojo directly before calling s
 
 ## ✍️ Examples
 
-Create new action everytime intead of bean created by Spring
+Create new action everytime instead of bean created by Spring
 ```
 @Autowired
 private ApplicationContext applicationContext;
